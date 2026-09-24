@@ -1,0 +1,30 @@
+{
+  "name": "midicn · 作曲家",
+  "short_name": "作曲家",
+  "description": "【批次 M2】⚠️ 依赖作曲家实体富化；建议最后开工。实例校验强化：track.c == 本页 slug。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#070706",
+  "theme_color": "#B8860B",
+  "lang": "zh-Hans",
+  "icons": [
+    {
+      "src": "assets/core/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/core/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/core/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
